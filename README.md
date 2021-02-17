@@ -46,3 +46,18 @@ Issue Date:January 2021
 Credential ID:Y683BV2MUMUS
 
 Credential URL:https://www.coursera.org/account/accomplishments/specialization/certificate/Y683BV2MUMUS
+
+
+
+
+[Architecting with Google Kubernetes Engine Specialization](https://coursera.org/share/c762fe9a901a85c97810446542cdb620)
+
+Name:Architecting with Google Kubernetes Engine Specialization
+
+Issuing Organization:Coursera
+
+Issue Date:February 2021
+
+Credential ID:C3DZFVUZLHR3
+
+Credential URL:https://www.coursera.org/account/accomplishments/specialization/certificate/C3DZFVUZLHR3
